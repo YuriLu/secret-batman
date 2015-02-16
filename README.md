@@ -13,7 +13,7 @@ The following people are involved in development:
 Mail them any suggestions, bugreports and comments.
 
 
-## This projects it's only my realization. Most of them are homeworks from EPAM Java courses.
+## Projects : 
 
 
 * **@Task9.Ships** - producer - consumer pattern<blockquote> Порт. Корабли заходят в порт для разгрузки/загрузки контейнеров. Число 
